@@ -525,6 +525,10 @@ margin-bottom: 10px;
 }
 .center {
   height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
 }
 .center p,
 .center span {
@@ -801,6 +805,9 @@ next:before {
 }
 */
 /*sec12*/
+.felicitails-section-twelve {
+  margin-bottom: 50px;
+}
 .btn-nine{
   font-family: Poppins;
   font-size: 15px;
